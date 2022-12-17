@@ -6,3 +6,4 @@
 # to deactivate venv just type `deactivate`
 
 . ./.bin/bin/activate
+which python
