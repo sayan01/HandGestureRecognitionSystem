@@ -1,0 +1,8 @@
+#!/bin/bash
+# run with a dot prefixed.
+# example:
+# . ./activate
+#
+# to deactivate venv just type `deactivate`
+
+. ./.bin/bin/activate

@@ -1,0 +1,7 @@
+#!/bin/bash
+# run with a dot prefixed to script
+# example:
+# . ./initrepo
+
+. ./activate || exit
+pip install -r requirements.txt
